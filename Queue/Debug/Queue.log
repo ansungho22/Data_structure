@@ -1,5 +1,0 @@
-﻿  소스.cpp
-C:\Users\O_o\source\repos\ansungho22\-Data_structure\Queue\소스.cpp(75,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
-C:\Users\O_o\source\repos\ansungho22\-Data_structure\Queue\소스.cpp(91): message : 컴파일되는 클래스 템플릿 인스턴스화 'LinkedQueue<E>'에 대한 참조를 확인하세요.
-C:\Users\O_o\source\repos\ansungho22\-Data_structure\Queue\소스.cpp(85,1): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
-  Queue.vcxproj -> C:\Users\O_o\source\repos\ansungho22\-Data_structure\Data_structure\Debug\Queue.exe
